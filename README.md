@@ -12,7 +12,7 @@ Interface QN8027 FM stereo broadcasting chip to the STM8 micro.
 Sounds terrific and availalbe from eBay and AliExpress for very little.
 However, there is very scant information on how to use the chip and the datasheet is vague at times.
 
-Hopefully this code will allow you to get started. My initial impression of the QN8027 device is very favouirable.
+Hopefully this code will allow you to get started. My initial impression of the QN8027 device is very favourable.
 
 I will also upload soon some code I used to debug how the device worked. 
 Forth programmers already know how useful Forth is when dealing with strange hardware. I totally recommend Thomas's STM8eForth implemention to you. 
